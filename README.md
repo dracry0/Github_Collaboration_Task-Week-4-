@@ -1,1 +1,3 @@
-# Github_Collaboration_Task-Week-4-
+# Github Collaboration Task (week-4)
+
+Folders are arranged according to order of tasks.
